@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm RIYAN<br><br>🎮 2D game developer using Godot 4<br><br>⚡ Focused on platformers, stealth games, and unique mechanics<br><br>🤖 Love creating smooth movement systems, AI, and mobile controls<br><br>🛠 Always experimenting and improving my game projects
+👋 Hi, I'm RIYAN<br><br>🎮 Game Developer using Godot<br><br>⚡ Focused on platformers, stealth games, and unique mechanics<br><br>🤖 Love creating smooth movement systems, AI, and mobile controls<br><br>🛠 Always experimenting and improving my game projects
 
 
 ## 🌐 Socials:
@@ -23,6 +23,3 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/ncp/payment/5ECFYSNVUL26Q) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/riyan_games) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
