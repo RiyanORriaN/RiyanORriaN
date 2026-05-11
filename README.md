@@ -1,6 +1,7 @@
-# 💫 About Me:
-👋 Hi, I'm **RIYAN**<br><br>
+# 👋 Welcome:
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px">, I'm **RIYAN**</h1><br><br>
 
+# 💫 About Me:
 💻 **Software Developer** with a strong interest in interactive applications and game development using **Godot Engine**<br><br>
 
 ⚡ Specialized in the development of **games, software solutions for Android and PC platforms, and web-based applications**<br><br>
