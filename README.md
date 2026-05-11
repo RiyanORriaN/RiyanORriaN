@@ -1,5 +1,5 @@
 # 👋 Welcome:
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px">, I'm **RIYAN**</h1><br><br>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px">, I'm RIYAN</h1>
 
 # 💫 About Me:
 💻 **Software Developer** with a strong interest in interactive applications and game development using **Godot Engine**<br><br>
