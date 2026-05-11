@@ -1,5 +1,15 @@
 # 💫 About Me:
-👋 Hi, I'm RIYAN<br><br>🎮 Game Developer using Godot<br><br>⚡ Focused on platformers, stealth games, and unique mechanics<br><br>🤖 Love creating smooth movement systems, AI, and mobile controls<br><br>🛠 Always experimenting and improving my game projects
+👋 Hi, I'm **RIYAN**<br><br>
+
+💻 **Software Developer** with a strong interest in interactive applications and game development using **Godot Engine**<br><br>
+
+⚡ Specialized in the development of **games, software solutions for Android and PC platforms, and web-based applications**<br><br>
+
+🤖 Experienced in building **scalable software systems, user-focused applications, and optimized cross-platform solutions**<br><br>
+
+🛠 Committed to **continuous learning, problem-solving, and delivering efficient, polished software solutions**<br><br>
+
+🚀 Dedicated to transforming ideas into engaging digital experiences
 
 
 ## 🌐 Socials:
