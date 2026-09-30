@@ -1,5 +1,6 @@
-# Welcome
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> ! I'm Riyan, a software developer specializing in both software and game development.</h1>
+<div align="center">
+  <img src="welcome.svg" width="100%" alt="Hi there! I'm Riyan, a software developer specializing in both software and game development.">
+</div>
 
 # About Me
 • **Software Developer** with a strong interest in interactive applications and game development using **Godot Engine**.<br>
